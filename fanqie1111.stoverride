@@ -1,6 +1,6 @@
 #!desc=番茄小说去广告
-#!name: fanqiexiaoshuo
-#!desc: 番茄小说去广告
+name: fanqiexiaoshuo
+desc: 番茄小说去广告
 http:
   mitm:
     - "*.pangolin-sdk-toutiao"
